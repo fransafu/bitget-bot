@@ -1,0 +1,5 @@
+# ignore Chrome Driver
+chromedriver
+
+# ignore env variables
+.env
